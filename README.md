@@ -1,9 +1,10 @@
 # 🌱전지형
 안녕하세요.
 저는 안드로이드 개발자를 준비하고 있는 대학생입니다.
+
 ### Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgh6272@gmail.com)](mailto:jgh6272@gmail.com)
-[![Naver Badge](http://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jgh6272@naver.com)](mailto:jgh6272@naver.com)
+  -E-mail  : jgh6272@gmail.com
+  -Tistory : zibro.tistory.com
 
 # 👯Career
   - Yongin University (2016~)
