@@ -1,5 +1,5 @@
 # ZiBro
-![Tidal Badge](http://img.shields.io/badge/Tistory-F05032?style=flat-square&logo=Tidal&logoColor=white&link=zibro.Tistory.com)
+안드로이드 개발자를 준비하고 있는 대학생입니다.
 # Career
   - Yongin University (2016~)
   - 
