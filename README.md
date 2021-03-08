@@ -11,10 +11,9 @@
 # Tech Stack
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  - Drag and drop images (requires your Dropbox account be linked)
-  - 
   
-# Contacts
+# 📫Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 <!--
 **jgh6272/jgh6272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
