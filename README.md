@@ -1,14 +1,14 @@
-# ZiBro
+# 🌱ZiBro
 안드로이드 개발자를 준비하고 있는 대학생입니다.
-# Career
+### 👯Career
   - Yongin University (2016~)
   - 
   - 
 
-# Tech Stack
+### ⚡Tech Stack
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/>
   
-# 📫Contacts
+### 📫Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgh6272@gmail.com)](mailto:jgh6272@gmail.com)
 [![Naver Badge](http://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jgh6272@naver.com)](mailto:jgh6272@naver.com)
 
