@@ -3,7 +3,7 @@
 저는 안드로이드 개발자를 준비하고 있는 대학생입니다.
 
 ### Contacts
-  -E-mail  : jgh6272@gmail.com
+  -E-mail  : jgh6272@gmail.com </br>
   -Tistory : zibro.tistory.com
 
 # 👯Career
