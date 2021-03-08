@@ -4,7 +4,7 @@
 
 ### Contacts
   -E-mail  : jgh6272@gmail.com </br>
-  -Tistory : zibro.tistory.com
+  -Tistory : https://zibro.tistory.com
 
 # 👯Career
   - Yongin University (2016~)
