@@ -6,8 +6,7 @@
   - 
 
 # Tech Stack
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/>
   
 # 📫Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgh6272@gmail.com)](mailto:jgh6272@gmail.com)
