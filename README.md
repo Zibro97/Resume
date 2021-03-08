@@ -13,7 +13,7 @@
 # 📫Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgh6272@gmail.com)](mailto:jgh6272@gmail.com)
 [![Naver Badge](http://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jgh6272@naver.com)](mailto:jgh6272@naver.com)
-
+[![Tidal Badge](http://img.shields.io/badge/Tidal-#F05032?style=flat-square&logo=Tidal&logoColor=white&link=zibro.Tistory.com)]
 
 <!-- 아이콘 주석
 - 🔭 I’m currently working on ...
