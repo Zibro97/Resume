@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
   
 # 🎮Project
-<a href="https://github.com/jgh6272/InstagramClone">InstagramCloneApp</a>
+<a href="https://github.com/jgh6272/InstagramClone"><b>InstagramCloneApp</b></a>
 
 <!-- 아이콘 주석
 - 🔭 I’m currently working on ...
