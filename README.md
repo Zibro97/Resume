@@ -42,7 +42,7 @@
 - 사용언어 : Kotlin, NodeJS
 - 데이터 베이스 : MySQL
 <!-- - 카카오 로그인, 네이버 검색 API -->
-- 'Kotlin', 'MySQL', 'MVVM', 'retrofit2', 'aws RDS', 'aws ec2', 'SharedPreferences'
+- `Kotlin`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `SharedPreferences`
 
 <!-- 아이콘 주석
 - 🔭 I’m currently working on ...
