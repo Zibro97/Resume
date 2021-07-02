@@ -21,11 +21,13 @@
 - 파이어베이스를 이용한 개발 방식 공부
 - Kotlin,Firebase
 
-### <a href="https://github.com/jgh6272/FacialAge"><b>FacialAge</b></a>
+> <a href="https://github.com/jgh6272/FacialAge"><b>FacialAge</b></a>
 - 사용 언어 : python
 - 라이브러리 : pytorch, torchvision, opencv, matplotlib, numpy
 - 학습 알고리즘 : EfficientNet
 - 주어진 얼굴 사진을 통해 실제 나이를 예측하는 모델
+
+> <a href="https://github.com/jgh6272/FacialAge"><b>LinkUsApp</b></a>
 <!-- 아이콘 주석
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
