@@ -16,10 +16,10 @@
 # 🎮Project
 ### <a href="https://github.com/jgh6272/InstagramClone"><b>InstagramCloneApp</b></a>
 > 사용 언어 : 코틀린 </br>
-> 개발 기간 : 2021.03.28~2021.04.02
-> 인스타그램 클론 앱
-> 파이어베이스를 이용한 개발 방식 공부
-> Kotlin,Firebase
+> 개발 기간 : 2021.03.28~2021.04.02</br>
+> 인스타그램 클론 앱</br>
+> 파이어베이스를 이용한 개발 방식 공부</br>
+> Kotlin,Firebase</br>
 
 ### <a href="https://github.com/jgh6272/FacialAge"><b>FacialAge</b></a>
 - 사용 언어 : python
