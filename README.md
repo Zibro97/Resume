@@ -11,7 +11,7 @@
   - 수원 대평고등학교 (2014.03~2016.02)
 
 # ⚡Tech Stack
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 <!--
 # 🎮Project
@@ -34,15 +34,15 @@
 - 개발 기간 : 2020.12.24~2021.04.11
 - 사용 언어 : Java, NodeJS
 - 데이터 베이스 : MySQL
-<!--- 소셜 로그인, fcm, 소켓 통신, -->
-<!--- Java, MySQL, MVVM, retrofit2, aws RDS, aws ec2, firebase(fcm), SharedPreferences-->
+- 소셜 로그인, fcm, 소켓 통신
+- Java, MySQL, MVVM, retrofit2, aws RDS, aws ec2, firebase(fcm), SharedPreferences
 
 ### <a href="https://github.com/alsrbs12304/ItsApp"><b>ItsApp</b></a>
 > IT기기를 구매하기 전에 IT기기에 대한 리뷰,정보들을 한눈에 볼 수 있는 앱. 졸업 프로젝트 진행중
 - 개발 기간 : 2021.04.02 ~
 - 사용언어 : Kotlin, NodeJS
 - 데이터 베이스 : MySQL
-<!-- - 카카오 로그인, 네이버 검색 API -->
+- 카카오 로그인, 네이버 검색 API
 - `Kotlin`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `SharedPreferences` -->
 
 <!-- 아이콘 주석
