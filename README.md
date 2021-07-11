@@ -12,9 +12,8 @@
 
 # ⚡Tech Stack
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
-
-<!--
-# 🎮Project
+  
+<!-- # 🎮Project
 ### <a href="https://github.com/jgh6272/InstagramClone"><b>InstagramCloneApp</b></a>
 > 인스타그램 클론 앱
 - 개발 기간 : 2021.03.28~2021.04.02
@@ -34,8 +33,8 @@
 - 개발 기간 : 2020.12.24~2021.04.11
 - 사용 언어 : Java, NodeJS
 - 데이터 베이스 : MySQL
-- 소셜 로그인, fcm, 소켓 통신
-- Java, MySQL, MVVM, retrofit2, aws RDS, aws ec2, firebase(fcm), SharedPreferences
+- 소셜 로그인, fcm, 소켓 통신, 다음 주소 API
+- `Java`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `firebase(fcm)`, `SharedPreferences`
 
 ### <a href="https://github.com/alsrbs12304/ItsApp"><b>ItsApp</b></a>
 > IT기기를 구매하기 전에 IT기기에 대한 리뷰,정보들을 한눈에 볼 수 있는 앱. 졸업 프로젝트 진행중
