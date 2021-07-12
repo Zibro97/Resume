@@ -3,7 +3,7 @@
 저는 안드로이드 백엔드 개발자를 준비하고 있는 전지형입니다.</br>
 안드로이드 백엔드를 공부중에 있습니다.
 
-### Contacts
+# 📫Contacts
   -E-mail  : jgh6272@gmail.com </br>
 
 # 👯Career
@@ -13,7 +13,7 @@
 # ⚡Tech Stack
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FF5722?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.JS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
   
-<!-- # 🎮Project
+# 🎮Project
 ### <a href="https://github.com/jgh6272/InstagramClone"><b>InstagramCloneApp</b></a>
 > 인스타그램 클론 앱
 - 개발 기간 : 2021.03.28~2021.04.02
@@ -33,7 +33,7 @@
 - 개발 기간 : 2020.12.24~2021.04.11
 - 사용 언어 : Java, NodeJS
 - 데이터 베이스 : MySQL
-- 소셜 로그인, fcm, 소켓 통신, 다음 주소 API
+- 소셜 로그인, fcm, 소켓 통신, 다음 주소 API, Bcrypt 암호화
 - `Java`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `firebase(fcm)`, `SharedPreferences`
 
 ### <a href="https://github.com/alsrbs12304/ItsApp"><b>ItsApp</b></a>
@@ -41,8 +41,8 @@
 - 개발 기간 : 2021.04.02 ~
 - 사용언어 : Kotlin, NodeJS
 - 데이터 베이스 : MySQL
-- 카카오 로그인, 네이버 검색 API
-- `Kotlin`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `SharedPreferences` -->
+- 카카오 로그인, 네이버 검색 API, Bcrypt 암호화
+- `Kotlin`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `SharedPreferences`
 
 <!-- 아이콘 주석
 - 🔭 I’m currently working on ...
