@@ -4,6 +4,7 @@
 
 # 📫Contacts
   -E-mail  : jgh6272@gmail.com </br>
+  -Blog : https://zibro.tistory.com/
 
 # 👯Career
   - 용인대학교 컴퓨터과학과 (2016~재학중)
