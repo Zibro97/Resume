@@ -3,10 +3,11 @@
 저는 안드로이드 개발자를 준비하고 있는 전지형입니다.</br>
 
 # 📫Contacts
-  -E-mail  : jgh6272@gmail.com </br>
+  -E-mail  : jgh6272@gmail.com
   -Blog : https://zibro.tistory.com/
 
 # 👯Career
+  - ICT 학점 연계 인턴십 (2021.09~2021.12.21)
   - 용인대학교 컴퓨터과학과 (2016~재학중)
   - 수원 대평고등학교 (2014.03~2016.02)
   
@@ -14,7 +15,7 @@
 ### <a href="https://github.com/jgh6272/InstagramClone"><b>InstagramCloneApp</b></a>
 > 인스타그램 클론 앱
 - 개발 기간 : 2021.03.28~2021.04.02
-- 사용 언어 : 코틀린
+- 사용 언어 : Kotlin
 - 파이어베이스를 이용한 개발 방식 공부
 - Kotlin,Firebase
 
