@@ -35,12 +35,12 @@
 - `Java`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `firebase(fcm)`, `SharedPreferences`
 
 ### <a href="https://github.com/jgh6272/ItsApp"><b>ItsApp</b></a>
-> IT기기를 구매하기 전에 IT기기에 대한 리뷰,정보들을 한눈에 볼 수 있는 앱. 졸업 프로젝트 진행중
-- 개발 기간 : 2021.04.02 ~
+> IT기기를 구매하기 전에 IT기기에 대한 리뷰,정보들을 한눈에 볼 수 있는 앱. 졸업 프로젝트
+- 개발 기간 : 2021.04.02 ~ 2021.10.31
 - 사용언어 : Kotlin, NodeJS
 - 데이터 베이스 : MySQL
 - 카카오 로그인, 네이버 검색 API, Bcrypt 암호화
-- `Kotlin`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `SharedPreferences`
+- `Kotlin`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`,`aws S3`, `SharedPreferences`
 
 <!-- 아이콘 주석
 - 🔭 I’m currently working on ...
