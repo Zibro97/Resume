@@ -19,6 +19,12 @@
 - 파이어베이스를 이용한 개발 방식 공부
 - `Kotlin`,`Firebase`
 
+### <a href="https://github.com/jgh6272/MyWeather"><b>MyWeather☁️</b></a>
+> 아이폰 날씨앱 클론
+- 사용 언어 : Kotlin
+- Room,Navigation 사용법 공부
+- `Navigation`, `View Binding`,`MVVM`,`Retrofit`,`GMS(Location,Map)`,`OpenWeatherApi`,`VWorld`,`SharedPreferences`,`Room`,`LiveData`
+
 ### <a href="https://github.com/jgh6272/FacialAge"><b>FacialAge🤔</b></a>
 > 주어진 얼굴 사진을 통해 실제 나이를 예측하는 모델. 학교 딥러닝 프로젝트
 - 개발 기간 : 2020.11.29~2020.12.14
@@ -31,7 +37,7 @@
 - 개발 기간 : 2020.12.24~2021.04.11
 - 사용 언어 : Java, NodeJS
 - 데이터 베이스 : MySQL
-- 소셜 로그인, fcm, 소켓 통신, 다음 주소 API, Bcrypt 암호화
+- 소셜 로그인, fcm, 다음 주소 API, Bcrypt 암호화
 - `Java`, `MySQL`, `MVVM`, `retrofit2`, `aws RDS`, `aws ec2`, `firebase(fcm)`, `SharedPreferences`
 
 ### <a href="https://github.com/jgh6272/ItsApp"><b>ItsApp💻</b></a>
